@@ -52,27 +52,6 @@ If you're looking for a profile like mine for your team, let’s talk! I'm open 
 
 ---
 
-### 💡 GitHub Activity  
-
-Joined GitHub **5** years ago.  
-
-Since then, I have pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.  
-
-<details>  
-  <summary><b>⚡ GitHub Stats</b></summary>  
-  <br />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvelasquezr8&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvelasquezr8&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</details>  
-
-<details>  
-  <summary><b>☄️ GitHub Streaks</b></summary>  
-  <br />  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cvelasquezr8&hide_border=true" />  
-</details>  
-
----
-
 ### 🛠️ Tools & Setup  
 - 💻 OS: Windows & IOS
 - 🔦 Laptop:  MacBook Pro 2 
@@ -86,7 +65,7 @@ Since then, I have pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ i
 
 ## 🚀 Let's Connect!  
 
-If you found my work interesting or want to discuss exciting tech ideas, feel free to **connect with me on LinkedIn**! 🚀  
+If you found my work interesting or want to discuss exciting tech ideas, feel free to **connect with me on LinkedIn or Gmail**! 🚀  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cvelasquezr8/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cvelasquezr8/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:cvelasquezr8@gmail.com)  
 
