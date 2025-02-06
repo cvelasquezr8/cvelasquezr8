@@ -1,10 +1,10 @@
 <div align="center">
   
-## Hey there 👋, I'm [Carlos Velasquez!](https://github.com/cvelasquezr8/)
+# Hey there 👋, I'm [Carlos Velasquez!](https://github.com/cvelasquezr8/)
 
 </div>
 
-## 🚀 Backend Developer & Development Lead  
+### 🚀 Backend Developer & Development Lead  
 
 **Glad to see you here!** I'm a **Backend Developer** and **Development Lead** at Equasystems SAS with expertise in **Node.js, TypeScript, and C#**.  
 
