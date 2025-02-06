@@ -4,18 +4,18 @@
 
 </div>
 
-## Glad to see you here! 
+## 🚀 Backend Developer & Development Lead  
 
+**Glad to see you here!** I'm a **Backend Developer** and **Development Lead** at Equasystems SAS with expertise in **Node.js, TypeScript, and C#**.  
 
-🔹 **Backend Developer** and **Development Lead** at Equasystems SAS with experience in **Node.js, TypeScript, and C#**.  
+I specialize in building **scalable, high-performance backend applications**, designing **efficient RESTful APIs**, optimizing **databases**, and ensuring **secure authentication**. My focus is on **code quality, performance, and scalability**, always looking for innovative ways to enhance processes.  
 
-I specialize in developing **scalable and high-performance backend applications**, creating efficient **RESTful APIs**, optimizing databases, and ensuring **secure authentication**. My focus is on **code quality, performance, and scalability**, always seeking innovative solutions to improve processes.  
+🔹 Passionate about **solving complex challenges**, collaborating with **multidisciplinary teams**, and staying up to date with **best practices and emerging technologies**.  
 
-Additionally, I enjoy collaborating with **multidisciplinary teams**, sharing knowledge, and constantly learning to stay up to date with **best practices and emerging technologies**.  
+🎯 Currently **open to new opportunities** where I can contribute my experience and help teams build robust, efficient, and scalable software solutions.  
 
-If you're looking for a profile like mine for your team, let’s talk! I'm open to new opportunities where I can contribute my experience and continue growing professionally.  
+📩 **[Let’s connect!](mailto:cvelasquezr8@gmail.com?subject=Hello%20Carlos&body=I%20came%20across%20your%20GitHub%20profile%20and...)** Feel free to reach out—I’d love to chat!  
 
-📩 **[Connect with me](mailto:cvelasquezr8@gmail.com?subject=Hello%20Carlos&body=I%20came%20across%20your%20GitHub%20profile%20and...)** or send me a message to chat!  
 
 
 ### My Absolute Favorites:
