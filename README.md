@@ -1,63 +1,55 @@
-<div align="center">
-    
-# 👋 Hey there! I'm Carlos Velasquez
+# Hi, I'm Carlos Velasquez
 
-### 🚀 **SOFTWARE ENGINEER & DEVELOPMENT LEAD**
+**Senior Full Stack Developer · Tech Lead**<br>
+Node.js · TypeScript · React · Next.js · SQL · AWS<br>
+Guayaquil, Ecuador · Open to Full Stack or Node.js Backend roles (Guayaquil or remote)
 
-</div>
-
----
-
-### 💡 Professional Summary
-
-I am a **Senior Full Stack Developer** with 5 years of experience, specializing in building and optimizing scalable web applications.
-
-* **Backend Expertise:** 3 years dedicated to **Node.js** and **NestJS**, designing robust **RESTful** APIs, secure authentication systems (JWT, OAuth 2.0), and efficient integration with relational and NoSQL databases (TypeORM, Prisma, PostgreSQL).
-* **Frontend Focus:** Experienced with **React** and **Next.js** to build responsive, user-focused interfaces, always prioritizing performance.
-* **Leadership:** Currently serving as a **Development Lead** at Equasystems S.A.S, I handle developer onboarding, code reviews, and lead projects for U.S.-based insurance clients, collaborating on system architecture and optimization.
-* **Adaptability:** I also have 2 years of prior experience with **.NET and C#**, which allows me to easily adapt to various technological environments and deliver end-to-end solutions.
-
-> 🎯 I'm passionate about **clean architecture**, maintainable code, and delivering complete solutions that drive real business value.
+[![Portfolio](https://img.shields.io/badge/Portfolio-carlos--velasquez.dev-111?style=flat-square&logo=astro&logoColor=white)](https://www.carlos-velasquez.dev/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cvelasquezr8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvelasquezr8)
+[![Email](https://img.shields.io/badge/Email-contact%40carlos--velasquez.dev-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact@carlos-velasquez.dev)
 
 ---
 
-### 🛠️ Key Technologies and Stack (Skills from CV)
+## About me
 
-I use a combination of tools to deliver robust end-to-end solutions, covering everything from development to continuous integration:
+Systems Engineer and Full Stack developer with 5+ years building production web applications.
 
-| Category | Highlighted Technologies (Skills) |
+For the last 4 years I built and maintained the **core platform for U.S. insurance carriers** (quoting, policies, claims and payments) and its **customer portal with 1,600+ users**. As tech lead I also handled task assignment, code reviews, mentoring and test plans.
+
+I care about maintainable code, clean architecture and solutions the business can audit. I use **AI-assisted development** (Claude Code, agents) every day for analysis, coding, testing and documentation.
+
+## Professional highlights
+
+- **Insurance core platform** (Node.js, Sails.js, MySQL on AWS RDS) shared by 4 carriers: quoting, binding, endorsements, renewals, cancellations, claims, checks and accounting.
+- **Customer portal** (Next.js, React, TypeScript) with 1,600+ users: policy lookup, claim tracking and secure online payments.
+- **Background jobs** for recurring payments, renewals and expirations, fault-tolerant and with automatic reports. Secure file exchange with vendors (PGP and SFTP).
+- **30+ critical requirements and incidents** in payments, claims and policies solved with documented root cause analysis. Immutable documents and receipts for audits.
+
+*Client code is private, so the repositories below are personal projects.*
+
+## Tech stack
+
+| Area | Technologies |
 | :--- | :--- |
-| **Backend** | `Node.js` • `TypeScript` • `NestJS` • `TypeORM` • `Express` • `C#` • `Entity Framework` • `Kafka` • `RabbitMQ` |
-| **Frontend** | `React` • `Next.js` • `Astro` • `Tailwind CSS` • `Bootstrap5` |
-| **Database** | `PostgreSQL` • `MySQL` • `MongoDB` • `SQL Server` • `Redis` |
-| **DevOps/Cloud** | `AWS (EC2, S3, RDS, CloudWatch)` • `Docker` • `Kubernetes` • `CI/CD` |
+| Backend | Node.js · TypeScript · Express · Sails.js · NestJS · REST APIs · JWT · OAuth 2.0 · Socket.IO |
+| Frontend | React · Next.js · Tailwind CSS · TanStack Query · React Hook Form · Zod · shadcn/ui |
+| Databases | MySQL · PostgreSQL · SQL Server · MongoDB · Redis · Sequelize · Prisma · TypeORM |
+| Cloud & DevOps | AWS (EC2, S3, RDS) · GitHub Actions · Docker · PM2 |
+| Security | Authentication and authorization · validation (Joi, Zod) · PGP encryption · SFTP |
+| Quality & AI | Jest · Cypress · test plans and QA · Claude Code · AI agents |
 
-<p align="left">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="50" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="Next.js" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" alt="Kubernetes" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="AWS" />
-</p>
+## Featured projects
 
----
+| Project | Highlights |
+| :--- | :--- |
+| [finance-backend](https://github.com/cvelasquezr8/finance-backend) | NestJS + Prisma (MySQL) API with clean architecture: JWT with refresh tokens, S3-compatible file storage, scheduled jobs, idempotency keys, circuit breaker, Swagger, unit tests and CI/CD |
+| [finance-pwa](https://github.com/cvelasquezr8/finance-pwa) | React + TypeScript PWA for bi-weekly budgeting: DDD structure, TanStack Query, React Hook Form + Zod, shadcn/ui, i18n |
+| [email-service](https://github.com/cvelasquezr8/email-service) | NestJS contact-email microservice for my portfolio: Redis rate limiting, idempotency interceptor, validated config, tests and CI/CD deploy |
+| [portfolio-site](https://github.com/cvelasquezr8/portfolio-site) | My personal site, built with Astro, Tailwind CSS and GSAP |
 
-### 🏆 Certifications and Focus
+## Education and certifications
 
-* **Master's in Software Engineering** (May 2024)
-* Specialized in **Clean Architecture** (NodeJs) and **NestJs**.
-* My soft skills include **Leadership**, **Problem Solving**, and **Proactivity**.
+- **Systems Engineering**, Universidad Politécnica Salesiana (2021)
+- **Node.js** (HackerRank) · **NestJS** (DevTalles) · **Clean Architecture** (DevTalles)
 
----
-
-### 📬 Let's Connect!
-
-I am currently **open to new opportunities** where I can contribute my experience in architecture and team leadership.
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cvelasquezr8) 
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:cvelasquez-jobs@outlook.com) 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=About.me&logoColor=white)](https://cvelasquezr8.github.io/portfolio-site/en/)
+**Languages:** Spanish (native) · English (intermediate)
